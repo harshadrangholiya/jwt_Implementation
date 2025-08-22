@@ -33,7 +33,7 @@ Upon the **first run**, the application will automatically populate the database
 ### 1. Clone the repository
 
 ```bash
-https://github.com/itz-govind19/JWT_Implementation.git
+https://github.com/harshadrangholiya/jwt_Implementation.git
 cd JWT_Implementation
 ```
 ### 2. Update Properties 
